@@ -1,0 +1,16 @@
+{
+  "employee_payroll": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "salary": 50000,
+      "department": "HR"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "salary": 60000,
+      "department": "Engineering"
+    }
+  ]
+}
