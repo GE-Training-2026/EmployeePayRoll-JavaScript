@@ -1,0 +1,88 @@
+# --------------------
+# OS & Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# --------------------
+# Logs
+# --------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --------------------
+# Environment files
+# --------------------
+.env
+.env.*
+!.env.example
+
+# --------------------
+# Dependency folders
+# --------------------
+node_modules/
+bower_components/
+
+# --------------------
+# Build / Dist
+# --------------------
+dist/
+build/
+out/
+coverage/
+.cache/
+
+# --------------------
+# React / Next / Vite
+# --------------------
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+# --------------------
+# Java / JVM
+# --------------------
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# --------------------
+# Docker
+# --------------------
+docker-data/
+*.pid
+
+# --------------------
+# Testing
+# --------------------
+coverage/
+.nyc_output/
+
+# --------------------
+# Misc
+# --------------------
+*.bak
+*.tmp
+*.old
